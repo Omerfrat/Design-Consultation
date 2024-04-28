@@ -17,7 +17,7 @@ body {
   line-height: 1.5;
   -webkit-font-smoothing: antialiased;
   width: 1440px;
-  margin: 50px 0 0 50px;
+  margin: 50px 0 50px 50px;
 }
 
 img, picture, video, canvas, svg {
@@ -26,7 +26,7 @@ img, picture, video, canvas, svg {
 }
 
 input, button, textarea, select {
-  font: inherit;
+  font: Plus Jakarta Sans;
 }
 
 p, h1, h2, h3, h4, h5, h6 {
@@ -123,6 +123,7 @@ main {
   line-height: 30.24px;
   text-align: left;
   color: #FFFFFF;
+  padding-top: 80px;
   margin-bottom: 136px;
 }
 
